@@ -1,7 +1,3 @@
-Sure! Here's a well-structured, professional **README** for your project **Material-Generator**, covering all the relevant components, technologies, and usage details:
-
----
-
 # 📚 Material-Generator
 
 **Material-Generator** is a Generative AI-powered knowledge assistant that retrieves high-quality content from Wikipedia, semantically chunks the data, stores it in a FAISS vector database, and provides rewritten, easy-to-understand responses based on user queries using LLaMA-3 via Groq. This tool is ideal for educational use cases, personalized study material generation, and intelligent content summarization.
@@ -120,6 +116,3 @@ https://en.wikipedia.org/wiki/Quantum_computing
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
-
-Let me know if you'd like this in Markdown file format or want a visual architecture diagram added too.
